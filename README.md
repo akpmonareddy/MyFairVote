@@ -1,4 +1,4 @@
-# MyFairVote
+# MySafeVote
 
 In this project, we are going to build a lightweight web-based application for digital
 voting primarily focusing on Indian elections. By using this web application, voters
